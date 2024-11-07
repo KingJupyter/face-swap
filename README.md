@@ -45,7 +45,7 @@ We are very troubled by the fact that GHOST can be used for unethical and disrep
   
 1. Clone this repository
   ```bash
-  git clone https://github.com/sberbank-ai/sber-swap.git
+  git clone https://github.com/KingJupyter/face-swap.git
   cd sber-swap
   git submodule init
   git submodule update
